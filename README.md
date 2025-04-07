@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enescinr" alt="enescinr" /></a> </p>
 
-- 🔭 I’m currently working on [a link shortener project that helps to influencers](https://ofs.yt)
+- 🔭 I’m currently working on [a link shortener project that helps to influencers](https://ofs.yt)</br>
   Here is some screenshots from this project:
     ![2](https://github.com/user-attachments/assets/9df9a586-4098-486c-b0f0-3cc643f84503)
     ![1](https://github.com/user-attachments/assets/b5a2281c-bf24-4708-b7b5-265e88bde6be)
