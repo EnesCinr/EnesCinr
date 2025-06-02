@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **AI things like MCP**
 
-- 📫 How to reach me **enesila2004@hotmail.com**
+- 📫 How to reach me **sulenescinar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
